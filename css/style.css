@@ -1,0 +1,107 @@
+/*style css*/
+
+body {
+
+  background-color: #ebf2f5;
+  }
+  .hero{
+    background: url(background.png);
+    
+  
+    background-size:cover;
+    background-position:center;
+    color:#a88cf1;
+  }
+  
+  .banner {
+    background-image: url('banner.png');
+    color:#a88cf1;
+  }
+  
+  .gitsvg, .foldersvg, .scratchsvg {
+    fill: #ffffff;
+  }
+  
+  .button{
+    background: #c97100;
+    background: linear-gradient(0deg, #c97100 0%, #ff9814 12%, #ffdc45 50%, #fff100 100%);
+    color:#9f7321;
+    
+    text-decoration:none;
+    border-style: groove;
+  }
+  
+  .button:hover {
+    background: #c97100;
+    background: linear-gradient(180deg, #c97100 0%, #ff9814 12%, #ffdc45 48%, #fff100 82%);
+    color: #ffffff;
+  }
+  
+  nav ul {
+    overflow: hidden;
+    background-color: #111;
+    position: relative;
+  
+    list-style: none;
+  
+    background-color: #1f2021;
+  }
+  
+  nav a {
+  
+    color: #ebf2f5;
+  }
+  
+  nav a:hover {
+    border-radius: 20px;
+    color: #a88cf1;
+  }
+  
+  footer {
+    background-image: url('background.png');
+  background-color: #111;
+  }
+  
+  .ol {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  .card {
+    border-radius: 15px;
+    padding: 1rem;
+    max-width: 300px;
+  
+    box-shadow: 0 4px 20px 0 #3c2c4f60;
+    background-color: #fffde5;
+  }
+  
+  .art {
+    border-radius: 10px;
+  }
+  
+  .active {
+    background-color: #6c6474;
+    color: #ebf2f5;
+    border-radius: 10px;
+  }
+  
+  /* The tag that makes the card clickable */
+  
+  a {
+    text-decoration: none;
+  
+    color: #514e73;
+  }
+  
+  /* Image & hover state */
+  
+  .card:hover {
+    background-color: #7c52ad;
+    color: #bca2d8;
+  }
+  
+  .copyright {
+    color: #ffffff;
+  }
