@@ -26,7 +26,7 @@ body {
 }
 
 .banner {
-  background-image: url('/images/banner.png');
+  background-image: url('/about-page/images/banner.png');
      color:#ffffff;
      display: flex;
    justify-content: center;

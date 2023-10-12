@@ -31,7 +31,7 @@ h1 {
 }
 
 .banner {
-  background-image: url('/images/banner.png');
+  background-image: url('/contact-page/images/banner.png');
      color:#ffffff;
      display: flex;
    justify-content: center;
