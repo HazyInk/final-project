@@ -14,7 +14,7 @@ body {
   }
   
   .banner {
-    background-image: url('/images/webbanner.png');
+    background-image: url('/images/banner.png');
     color:#ffffff;
   }
   
@@ -58,7 +58,7 @@ body {
   }
   
   footer {
-    background-image: url('/images/webbanner.png');
+    background-image: url('/images/banner.png');
   background-color: #111;
   }
   
