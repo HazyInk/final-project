@@ -16,11 +16,6 @@ main {
   margin-inline:auto;
 }
 
-.banner {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
 
 .hero {
   padding:100px;

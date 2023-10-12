@@ -6,8 +6,11 @@ body {
   }
   
   .banner {
-    background-image: url('webbanner.png');
+    background-image: url('./images/banner.png');
     color:#ffffff;
+    display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   }
   
   .gitsvg, .foldersvg, .scratchsvg {
