@@ -43,6 +43,11 @@ footer {
   padding: 5rem;
 }
 
+.art {
+  border-radius: 10px;
+  max-width: 300px;
+}
+
 iframe {
   padding-bottom: 10rem;
   display: block;
