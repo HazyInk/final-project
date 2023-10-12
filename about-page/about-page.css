@@ -16,12 +16,6 @@ main {
   margin-inline:auto;
 }
 
-.banner {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
 .hero {
   padding:100px;
 }
@@ -30,6 +24,14 @@ body {
   margin:0px;
   padding:0px;
 }
+
+.banner {
+  background-image: url('/images/banner.png');
+     color:#ffffff;
+     display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   }
 
 nav ul {
   padding-left: 0;

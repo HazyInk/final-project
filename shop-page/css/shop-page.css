@@ -11,6 +11,14 @@ main {
   padding-right: 10rem;
 }
 
+.banner {
+  background-image: url('/shop-page/images/banner.png');
+     color:#ffffff;
+     display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   }
+
 .hero-content{
   padding:100px;
   margin-inline:auto;

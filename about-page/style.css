@@ -5,13 +5,6 @@ body {
   background-color: #ebf2f5;
   }
   
-  .banner {
-    background-image: url('../../final-project/images/banner.png');
-    color:#ffffff;
-    display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  }
   
   .gitsvg, .foldersvg, .scratchsvg {
     fill: #ffffff;

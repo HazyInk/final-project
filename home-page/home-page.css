@@ -11,7 +11,7 @@ main {
   background-position:center;
   color:#ffffff;
 
-  background-image: linear-gradient(#d9a3fc80, #8affd080), url('../../final-project/images/bushes.png');
+  background-image: linear-gradient(#d9a3fc80, #8affd080), url('./../final-project/images/bushes.png');
   
   /* Set a specific height */
   height: 50%;
@@ -22,6 +22,14 @@ main {
   background-size: cover;
   position: relative;
 }
+
+.banner {
+  background-image: url('/images/banner.png');
+     color:#ffffff;
+     display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   }
 
 .hero-content{
   padding:100px;

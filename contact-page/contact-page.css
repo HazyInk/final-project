@@ -30,6 +30,13 @@ h1 {
   margin-inline:auto;
 }
 
+.banner {
+  background-image: url('/images/banner.png');
+     color:#ffffff;
+     display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   }
 
 .hero {
   padding:100px;
