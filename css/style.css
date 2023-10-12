@@ -64,11 +64,6 @@ body {
     background-color: #fffde5;
   }
   
-  .art {
-    border-radius: 10px;
-    max-width: 300px;
-  }
-  
   .active {
     background-color: #6c6474;
     color: #ebf2f5;

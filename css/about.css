@@ -19,6 +19,11 @@ main {
   margin-inline:auto;
 }
 
+.icon {
+  padding-top: 5rem;
+width: 200px;
+height: 200px;
+}
 
 .hero {
   padding:100px;
@@ -30,6 +35,8 @@ body {
 }
 
 nav ul {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   padding-left: 0;
   margin: 0;
 
@@ -45,7 +52,7 @@ footer {
 
 .art {
   border-radius: 10px;
-  max-width: 300px;
+  max-width: 100%;
 }
 
 iframe {
