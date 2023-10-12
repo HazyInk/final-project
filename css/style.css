@@ -4,17 +4,9 @@ body {
 
   background-color: #ebf2f5;
   }
-  .hero{
-    background: url(background.png);
-    
-  
-    background-size:cover;
-    background-position:center;
-    color:#a88cf1;
-  }
   
   .banner {
-    background-image: url('/images/banner.png');
+    background-image: url('/images/webbanner.png');
     color:#ffffff;
   }
   
@@ -58,8 +50,7 @@ body {
   }
   
   footer {
-    background-image: url('/images/banner.png');
-  background-color: #111;
+  background-color: #111; 
   }
   
   .ol {
