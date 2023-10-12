@@ -6,7 +6,7 @@ body {
   }
   
   .banner {
-    background-image: url('/images/webbanner.png');
+    background-image: url('../images/webbanner.png');
     color:#ffffff;
   }
   
