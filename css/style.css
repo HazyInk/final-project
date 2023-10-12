@@ -6,7 +6,7 @@ body {
   }
   
   .banner {
-    background-image: url('/images/banner.png');
+    background-image: url('../../final-project/images/banner.png');
     color:#ffffff;
     display: flex;
   justify-content: center;

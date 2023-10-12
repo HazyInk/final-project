@@ -11,7 +11,7 @@ main {
   background-position:center;
   color:#ffffff;
 
-  background-image: linear-gradient(#d9a3fc80, #8affd080), url('/images/bushes.png');
+  background-image: linear-gradient(#d9a3fc80, #8affd080), url('../../final-project/images/bushes.png');
   
   /* Set a specific height */
   height: 50%;
