@@ -14,8 +14,8 @@ body {
   }
   
   .banner {
-    background-image: url('banner.png');
-    color:#a88cf1;
+    background-image: url('/images/webbanner.png');
+    color:#ffffff;
   }
   
   .gitsvg, .foldersvg, .scratchsvg {
@@ -24,8 +24,8 @@ body {
   
   .button{
     background: #c97100;
-    background: linear-gradient(0deg, #c97100 0%, #ff9814 12%, #ffdc45 50%, #fff100 100%);
-    color:#9f7321;
+    background: linear-gradient(180deg, #c9006b 0%, #ff1479 32%, #ff45ab 72%, #ff0065 95%);
+    color:#300050;
     
     text-decoration:none;
     border-style: groove;
@@ -33,7 +33,7 @@ body {
   
   .button:hover {
     background: #c97100;
-    background: linear-gradient(180deg, #c97100 0%, #ff9814 12%, #ffdc45 48%, #fff100 82%);
+    background: linear-gradient(0deg, #c9006b 0%, #ff1479 32%, #ff45ab 72%, #ff0065 95%);
     color: #ffffff;
   }
   
@@ -58,7 +58,7 @@ body {
   }
   
   footer {
-    background-image: url('background.png');
+    background-image: url('/images/webbanner.png');
   background-color: #111;
   }
   
