@@ -12,7 +12,7 @@ main {
   color:#ffffff;
 
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(#d9a3fc80, rgba(138, 255, 208, 0.502)), url("../images/bushes.png");
+  background-image: linear-gradient(#d9a3fc80, rgba(138, 255, 208, 0.502)), url('bushes.png');
   
   /* Set a specific height */
   height: 50%;
